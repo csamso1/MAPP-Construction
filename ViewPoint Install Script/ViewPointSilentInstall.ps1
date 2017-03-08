@@ -1,1 +1,0 @@
-"\\csgmappdal\data\CPM_Data\APPS\Viewpoint\Vista_Client_6.11.0.exe" /S /DESKTOP=yes /QLAUNCH=no /EXCEL=0 /ADMIN=0 /CRO=1 /D="C:\Program Files (x86)\Viewpoint Construction Software"
