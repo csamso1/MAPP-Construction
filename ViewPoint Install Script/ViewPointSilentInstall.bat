@@ -1,0 +1,1 @@
+"C:\Tools\Vista_Client_6.11.0.exe" /DESKTOP=yes /QLAUNCH=no /EXCEL=0 /ADMIN=0 /CRO=1 /D="C:\Program Files (x86)\Viewpoint Construction Software"
