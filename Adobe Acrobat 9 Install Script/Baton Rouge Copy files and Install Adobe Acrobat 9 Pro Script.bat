@@ -18,7 +18,5 @@ SET _options= /R:2 /W:2 /XO /TEE
 
 ROBOCOPY %_source% %_dest% %_what% %_options%
 
-/wait
-
 ::Silent Install Call
 msiexec /i "C:\tools\Adobe 9\AcroPro.msi" LANG_LIST=en_US /qb
