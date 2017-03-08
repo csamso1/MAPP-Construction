@@ -1,0 +1,1 @@
+msiexec /i AcroPro.msi LANG_LIST=en_US /qb
