@@ -1,0 +1,1 @@
+"\\csgmappdal\Data\CPM_Data\APPS\pVault\ClientSetup.exe" "\\mapp-fs\pvault\Deployment\Server Files\Config\PEServerConfig.xml"
