@@ -1,5 +1,4 @@
 #Program Goals
-
 1. Program takes in a working directory, and searches the directory for .jpg files
 
 2. For every .jpg file the system extracts the 'EXIF DateTimeDigitized' metadata.
