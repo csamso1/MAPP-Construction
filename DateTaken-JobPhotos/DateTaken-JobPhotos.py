@@ -5,7 +5,7 @@
 import exifread
 
 #Open image file for reading (binary mode)
-path_name = "C:\Users\Clayton\Documents\GitHub\MAPP-Construction\DateTaken-JobPhotos\photo.JPG"
+path_name = "photo.JPG"
 f = open(path_name, 'rb')
 
 #Return Exif tags
