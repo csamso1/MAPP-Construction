@@ -1,4 +1,4 @@
-###Program Goals
+#Program Goals
 
 1. Program takes in a working directory, and searches the directory for .jpg files
 
