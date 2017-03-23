@@ -18,26 +18,30 @@
 
 	UserProvidedFolder
 
-		-SubFolder_0
-		
-		-SubFolder_1
-		
+		SubFolder_0
+
+			photo_2.jpg
+
+		SubFolder_1
+
+			photo_3.jpg
+
 		photo_0.jpg
-		
+
 		photo_1.jpg
-	
+
 
 ## Resulting folder structure after program execution
 
 	UserProvidedFolder
 
-		-SubFolder_0
+		SubFolder_0
 
-			-photo_2.jpg
+			photo_2.jpg
 
-		-SubFolder_1
+		SubFolder_1
 
-			-photo_3.jpg
+			photo_3.jpg
 
 		photo_0.jpg
 
