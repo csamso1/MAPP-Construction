@@ -11,3 +11,30 @@
 5. System preforms this operation on every .jpg file in the provided directory.
 
 6. System (probablly recursivly) preforms this same process on every subdirectory of the provided directory, while maintaining the orgninal folder structure in the new 'Photos With Dates' folder.
+
+# Example folder structure
+
+## Orginal folder structure
+
+UserProvidedFolder
+	-SubFolder_0
+	-SubFolder_1
+	photo_0.jpg
+	photo_1.jpg
+
+## Resulting folder structure after program execution
+
+UserProvidedFolder
+	-SubFolder_0
+		-photo_2.jpg
+	-SubFolder_1
+		-photo_3.jpg
+	photo_0.jpg
+	photo_1.jpg
+	*NewFolder_Renamed*
+		-SubFolder_0
+			-DateTaken_photo_2.jpg
+		-SubFolder_1
+			-DateTaken_photo_3.jpg
+		DateTaken_photo_0.jpg
+		DateTaken_photo_1.jpg
