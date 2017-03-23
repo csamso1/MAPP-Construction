@@ -47,7 +47,7 @@
 
 		photo_1.jpg
 
-		*NewFolder_Renamed*
+		**NewFolder_Renamed**
 
 			-SubFolder_0
 
