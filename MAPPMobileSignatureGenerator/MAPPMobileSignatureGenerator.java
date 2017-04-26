@@ -33,7 +33,7 @@ public class MAPPMobileSignatureGenerator
 //        String FileName = "C:/Users/Clayton/Desktop/HTML Signatures";
 //        FileName.concat(UserName);
 //        FileName.concat(".html");
-        String FileName = "C:/Users/Clayton/Desktop/HTML Signatures/".concat(UserName).concat(" Mobile Signature.html");
+        String FileName = "/mnt/c/Users/Clayton/Desktop/HTML Signatures/".concat(UserName).concat(" Mobile Signature.html");
         PrintWriter fileWriter = new PrintWriter(FileName);
         
         if(Office.equalsIgnoreCase("Baton Rouge"))
