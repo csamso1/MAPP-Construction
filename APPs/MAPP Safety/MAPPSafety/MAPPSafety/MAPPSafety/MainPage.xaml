@@ -4,8 +4,5 @@
              xmlns:local="clr-namespace:MAPPSafety"
              x:Class="MAPPSafety.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
-
+    <Label Text="Welcome MAPP Safety APP!" VerticalOptions="Center" HorizontalOptions="Center" />
 </ContentPage>

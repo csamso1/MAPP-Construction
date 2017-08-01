@@ -13,7 +13,8 @@ namespace MAPPSafety
         {
             InitializeComponent();
 
-            MainPage = new MAPPSafety.MainPage();
+            //MainPage = new MAPPSafety.MainPage();
+            MainPage = new NavigationPage(new HomePage());
         }
 
         protected override void OnStart()

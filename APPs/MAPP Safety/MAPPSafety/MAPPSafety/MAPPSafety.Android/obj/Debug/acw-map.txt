@@ -1,3 +1,7 @@
+MAPPSafety.Droid.CustomWebViewRenderer, MAPPSafety.Android;md57572fffce3a8eefa317a962912ffb071.CustomWebViewRenderer
+MAPPSafety.Droid.CustomWebViewRenderer, MAPPSafety.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57572fffce3a8eefa317a962912ffb071.CustomWebViewRenderer
+MAPPSafety.Droid.CustomWebViewRenderer;md57572fffce3a8eefa317a962912ffb071.CustomWebViewRenderer
+mappsafety.droid.CustomWebViewRenderer;md57572fffce3a8eefa317a962912ffb071.CustomWebViewRenderer
 MAPPSafety.Droid.MainActivity, MAPPSafety.Android;md57572fffce3a8eefa317a962912ffb071.MainActivity
 MAPPSafety.Droid.MainActivity, MAPPSafety.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57572fffce3a8eefa317a962912ffb071.MainActivity
 MAPPSafety.Droid.MainActivity;md57572fffce3a8eefa317a962912ffb071.MainActivity
