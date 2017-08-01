@@ -13,3 +13,4 @@ C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.App.xaml.g.cs
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.dll
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.pdb
+C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.HomePage.xaml.g.cs

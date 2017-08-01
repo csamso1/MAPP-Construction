@@ -7,7 +7,7 @@ using Xamarin.Forms;
 
 namespace MAPPSafety
 {
-    class WebViewPageCS : ContentPage
+    public class WebViewPageCS : ContentPage
     {
         public WebViewPageCS()
         {

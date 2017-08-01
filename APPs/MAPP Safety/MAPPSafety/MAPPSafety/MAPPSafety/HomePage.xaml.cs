@@ -19,7 +19,7 @@ namespace MAPPSafety
 
         private void Open_First_PDF_Button_Clicked(object sender, EventArgs e)
         {
-            //MainPage = new WebViewPageCS();
+            Navigation.PushAsync(new WebViewPageCS());
         }
     }
 }
