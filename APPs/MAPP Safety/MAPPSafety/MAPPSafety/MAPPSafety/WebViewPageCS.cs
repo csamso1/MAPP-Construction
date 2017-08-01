@@ -18,7 +18,7 @@ namespace MAPPSafety
                 {
                     new CustomWebView
                     {
-                        Uri = "FM-001_Weekly_Equipment_Inspection_Form.pdf",
+                        Uri = "TEST.pdf",
                         HorizontalOptions = LayoutOptions.FillAndExpand,
                         VerticalOptions = LayoutOptions.FillAndExpand
                     }
