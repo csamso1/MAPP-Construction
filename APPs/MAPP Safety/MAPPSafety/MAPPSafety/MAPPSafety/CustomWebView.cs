@@ -7,7 +7,7 @@ using Xamarin.Forms;
 
 namespace MAPPSafety
 {
-    class CustomWebView : WebView
+    public class CustomWebView : WebView
     {
         public static readonly BindableProperty UriProperty = BindableProperty.Create(propertyName: "Uri",
             returnType: typeof(string),
