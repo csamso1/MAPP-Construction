@@ -3,9 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MAPPSafety.HomePage">
     <ContentPage.Content>
-        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-            <Label Text="Welcome to the MAPP Safety APP!" />
-            <Button Text="Open first PDF" HorizontalOptions="Center" VerticalOptions="Center" Clicked="Open_First_PDF_Button_Clicked"/>
+        <StackLayout HorizontalOptions="Center" >
+            <Label Text="Welcome to the MAPP Safety APP!" VerticalOptions="Start" FontSize="Large" />
+            <Picker x:Name="PDFPicker" SelectedIndexChanged="PDFPicker_SelectedIndexChanged"  Title="Choose Safety Manual Section:" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand"/>
+            <Button Text="Open PDF" VerticalOptions="EndAndExpand" Clicked="Open_PDF_Button_Clicked"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

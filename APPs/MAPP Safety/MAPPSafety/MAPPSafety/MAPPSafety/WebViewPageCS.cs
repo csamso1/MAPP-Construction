@@ -11,14 +11,12 @@ namespace MAPPSafety
     {
         
 
-        public WebViewPageCS()
+        public WebViewPageCS(int index)
         {
             string[] pdfs = new string[2];
             pdfs[0] = "FM-001_Weekly_Equipment_Inspection_Form.pdf";
             pdfs[1] = "Standard_for_HSE_Policy_00-001.pdf";
-
-
-
+            int pdfIndex = index;
             Padding = new Thickness(0, 20, 0, 0);
             Content = new StackLayout
             {
@@ -26,7 +24,7 @@ namespace MAPPSafety
                 {
                     new CustomWebView
                     {
-                        Uri = pdfs[1],
+                        Uri = pdfs[pdfIndex],
                         HorizontalOptions = LayoutOptions.FillAndExpand,
                         VerticalOptions = LayoutOptions.FillAndExpand
                     }

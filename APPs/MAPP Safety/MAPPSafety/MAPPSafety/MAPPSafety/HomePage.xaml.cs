@@ -15,11 +15,19 @@ namespace MAPPSafety
         public HomePage()
         {
             InitializeComponent();
+
+            PDFPicker.Items.Add("General Forms");
+            PDFPicker.Items.Add("00 Standard for HSE Policy");
         }
 
-        private void Open_First_PDF_Button_Clicked(object sender, EventArgs e)
+        private void Open_PDF_Button_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new WebViewPageCS());
+            Navigation.PushAsync(new WebViewPageCS(PDFPicker.SelectedIndex));
+        }
+
+        private void PDFPicker_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int PDFPicker_Index = PDFPicker.SelectedIndex;
         }
     }
 }
