@@ -21,6 +21,9 @@ namespace MAPPSafety
             pdfs[4] = "Asbestos_Awareness_03-001.pdf";
             pdfs[5] = "ASSURED_GROUNDING_04-001.pdf";
             pdfs[6] = "BBS_Safety_Observation_Report_SOR_05-001.pdf";
+            pdfs[7] = "Benzene_Safety_Awareness_06-001.pdf";
+            pdfs[8] = "BLOODBORNE_PATHOGENS_07-001.pdf";
+            pdfs[9] = "Concrete_Work_08-001.pdf";
             int pdfIndex = index;
             Padding = new Thickness(0, 20, 0, 0);
             Content = new StackLayout

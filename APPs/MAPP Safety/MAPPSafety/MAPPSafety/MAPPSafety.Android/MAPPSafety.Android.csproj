@@ -385,6 +385,9 @@
     <AndroidAsset Include="Assets\Content\Asbestos_Awareness_03-001.pdf" />
     <AndroidAsset Include="Assets\Content\ASSURED_GROUNDING_04-001.pdf" />
     <AndroidAsset Include="Assets\Content\BBS_Safety_Observation_Report_SOR_05-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Benzene_Safety_Awareness_06-001.pdf" />
+    <AndroidAsset Include="Assets\Content\BLOODBORNE_PATHOGENS_07-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Concrete_Work_08-001.pdf" />
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
