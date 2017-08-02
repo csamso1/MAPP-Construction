@@ -25,7 +25,7 @@ namespace MAPPSafety
             PDFPicker.Items.Add("05 - BBS Safety Observation Report SOR");
             PDFPicker.Items.Add("06 - Benzene");
             PDFPicker.Items.Add("07 - Bloodborne Pathogens");
-            PDFPicker.Items.Add("08 - Concrete Wrok");
+            PDFPicker.Items.Add("08 - Concrete Work");
         }
 
         private void Open_PDF_Button_Clicked(object sender, EventArgs e)
