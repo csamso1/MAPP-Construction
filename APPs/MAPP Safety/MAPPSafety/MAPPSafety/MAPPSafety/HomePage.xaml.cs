@@ -17,7 +17,12 @@ namespace MAPPSafety
             InitializeComponent();
 
             PDFPicker.Items.Add("General Forms");
-            PDFPicker.Items.Add("00 Standard for HSE Policy");
+            PDFPicker.Items.Add("00 - Standard for HSE Policy");
+            PDFPicker.Items.Add("01 - HSE Policy");
+            PDFPicker.Items.Add("02 - Aerial and Scissor Lifts");
+            PDFPicker.Items.Add("03 - Asbestos Awareness");
+            PDFPicker.Items.Add("04 - Assured Grounding");
+            PDFPicker.Items.Add("05 - BBS Safety Observation Report SOR");
         }
 
         private void Open_PDF_Button_Clicked(object sender, EventArgs e)

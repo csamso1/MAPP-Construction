@@ -13,9 +13,14 @@ namespace MAPPSafety
 
         public WebViewPageCS(int index)
         {
-            string[] pdfs = new string[2];
+            string[] pdfs = new string[70];
             pdfs[0] = "FM-001_Weekly_Equipment_Inspection_Form.pdf";
             pdfs[1] = "Standard_for_HSE_Policy_00-001.pdf";
+            pdfs[2] = "HSE_Policy_01-001.pdf";
+            pdfs[3] = "AERIAL_AND_SCISSOR_LIFTS_02-001.pdf";
+            pdfs[4] = "Asbestos_Awareness_03-001.pdf";
+            pdfs[5] = "ASSURED_GROUNDING_04-001.pdf";
+            pdfs[6] = "BBS_Safety_Observation_Report_SOR_05-001.pdf";
             int pdfIndex = index;
             Padding = new Thickness(0, 20, 0, 0);
             Content = new StackLayout

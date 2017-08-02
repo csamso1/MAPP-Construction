@@ -380,6 +380,11 @@
     <AndroidAsset Include="Assets\pdfjs\web\locale\zu\viewer.properties" />
     <AndroidAsset Include="Assets\Content\FM-001_Weekly_Equipment_Inspection_Form.pdf" />
     <AndroidAsset Include="Assets\Content\Standard_for_HSE_Policy_00-001.pdf" />
+    <AndroidAsset Include="Assets\Content\HSE_Policy_01-001.pdf" />
+    <AndroidAsset Include="Assets\Content\AERIAL_AND_SCISSOR_LIFTS_02-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Asbestos_Awareness_03-001.pdf" />
+    <AndroidAsset Include="Assets\Content\ASSURED_GROUNDING_04-001.pdf" />
+    <AndroidAsset Include="Assets\Content\BBS_Safety_Observation_Report_SOR_05-001.pdf" />
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
