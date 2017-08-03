@@ -26,6 +26,8 @@ namespace MAPPSafety
             PDFPicker.Items.Add("06 - Benzene");
             PDFPicker.Items.Add("07 - Bloodborne Pathogens");
             PDFPicker.Items.Add("08 - Concrete Work");
+            PDFPicker.Items.Add("09 - Confined Space");
+            PDFPicker.Items.Add("10 - Cranes and Hoists");
         }
 
         private void Open_PDF_Button_Clicked(object sender, EventArgs e)

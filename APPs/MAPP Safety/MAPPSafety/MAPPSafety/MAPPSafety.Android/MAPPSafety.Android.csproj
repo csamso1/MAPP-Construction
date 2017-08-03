@@ -388,6 +388,8 @@
     <AndroidAsset Include="Assets\Content\Benzene_Safety_Awareness_06-001.pdf" />
     <AndroidAsset Include="Assets\Content\BLOODBORNE_PATHOGENS_07-001.pdf" />
     <AndroidAsset Include="Assets\Content\Concrete_Work_08-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Combined_Confined_Space_09.pdf" />
+    <AndroidAsset Include="Assets\Content\Combined_Cranes_and_Hoists_10.pdf" />
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
