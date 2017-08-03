@@ -26,6 +26,8 @@ namespace MAPPSafety
             pdfs[9] = "Concrete_Work_08-001.pdf";
             pdfs[10] = "Combined_Confined_Space_09.pdf";
             pdfs[11] = "Combined_Cranes_and_Hoists_10.pdf";
+            pdfs[12] = "Drugs_Alchol_Prohibited_Items_11-001.pdf";
+            pdfs[13] = "Combined_Electrical_Safety_12-001.pdf";
             int pdfIndex = index;
             Padding = new Thickness(0, 20, 0, 0);
             Content = new StackLayout

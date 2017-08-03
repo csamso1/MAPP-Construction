@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MAPPSafety.HomePage">
+             xmlns:local="clr-namespace:MAPPSafety;assembly=MAPPSafety"
+             x:Class="MAPPSafety.HomePage"
+             Title="MAPP Safety">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" >
             <Label Text="Welcome to the MAPP Safety APP!" VerticalOptions="Start" FontSize="Large" />

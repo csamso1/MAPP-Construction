@@ -28,6 +28,8 @@ namespace MAPPSafety
             PDFPicker.Items.Add("08 - Concrete Work");
             PDFPicker.Items.Add("09 - Confined Space");
             PDFPicker.Items.Add("10 - Cranes and Hoists");
+            PDFPicker.Items.Add("11 - Drugs Alchol and Prohibited Items");
+            PDFPicker.Items.Add("12 - Electrical Safety");
         }
 
         private void Open_PDF_Button_Clicked(object sender, EventArgs e)

@@ -390,6 +390,8 @@
     <AndroidAsset Include="Assets\Content\Concrete_Work_08-001.pdf" />
     <AndroidAsset Include="Assets\Content\Combined_Confined_Space_09.pdf" />
     <AndroidAsset Include="Assets\Content\Combined_Cranes_and_Hoists_10.pdf" />
+    <AndroidAsset Include="Assets\Content\Drugs_Alchol_Prohibited_Items_11-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Combined_Electrical_Safety_12-001.pdf" />
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
