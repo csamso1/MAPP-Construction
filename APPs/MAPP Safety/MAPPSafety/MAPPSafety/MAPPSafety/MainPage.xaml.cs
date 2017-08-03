@@ -13,5 +13,10 @@ namespace MAPPSafety
         {
             InitializeComponent();
         }
+
+        private void Safety_Manual_Button_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new HomePage());
+        }
     }
 }

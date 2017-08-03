@@ -3,6 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:MAPPSafety"
              x:Class="MAPPSafety.MainPage">
-
-    <Label Text="Welcome MAPP Safety APP!" VerticalOptions="Center" HorizontalOptions="Center" />
+    <StackLayout >
+        <Label Text="Welcome to the MAPP Safety APP!" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" FontSize="Large" />
+        <Button Text="Safety Manual" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" Clicked="Safety_Manual_Button_Clicked" />
+    </StackLayout>
+ 
 </ContentPage>
