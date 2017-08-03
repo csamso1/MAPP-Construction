@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:MAPPSafety"
+             xmlns:local="clr-namespace:MAPPSafety;assembly=MAPPSafety"
              x:Class="MAPPSafety.MainPage"
              Title="MAPP Safety">
-    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="Center" x:Name="MainPageLayout">
-        <Label x:Name="Header" Text="Welcome to the MAPP APP" FontSize="Large" VerticalOptions="Start" TextColor="DarkBlue" />
-        <Button Text="The MAPP Approach" VerticalOptions="Center" Clicked="MAPP_APPROACH_Button_Clicked" />
+    <StackLayout x:Name="MainPageLayout" HorizontalOptions="CenterAndExpand">
+        <Image Source="{local:ImageResource MAPPSafety.Images.mapp_logo.png}" HorizontalOptions="CenterAndExpand" VerticalOptions="Start"/>
+        <Button Text="The MAPP Approach" VerticalOptions="Center"  Clicked="MAPP_APPROACH_Button_Clicked" />
         <Button Text="Safety Manual" VerticalOptions="Center" Clicked="Safety_Manual_Button_Clicked" />
     </StackLayout>
 </ContentPage>
