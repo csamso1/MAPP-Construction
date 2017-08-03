@@ -2,10 +2,11 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:MAPPSafety"
-             x:Class="MAPPSafety.MainPage">
-    <StackLayout >
-        <Label Text="Welcome to the MAPP Safety APP!" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" FontSize="Large" />
-        <Button Text="Safety Manual" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" Clicked="Safety_Manual_Button_Clicked" />
+             x:Class="MAPPSafety.MainPage"
+             Title="MAPP Safety">
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="Center" x:Name="MainPageLayout">
+        <Label x:Name="Header" Text="Welcome to the MAPP APP" FontSize="Large" VerticalOptions="Start" TextColor="DarkBlue" />
+        <Button Text="The MAPP Approach" VerticalOptions="Center" Clicked="MAPP_APPROACH_Button_Clicked" />
+        <Button Text="Safety Manual" VerticalOptions="Center" Clicked="Safety_Manual_Button_Clicked" />
     </StackLayout>
- 
 </ContentPage>
