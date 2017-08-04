@@ -42,6 +42,13 @@ namespace MAPPSafety
             PDFPicker.Items.Add("22 - Housekeeping");
             PDFPicker.Items.Add("23 - Hydrogen Sulfide");
             PDFPicker.Items.Add("24 - Incident Investigation");
+            PDFPicker.Items.Add("25 - Task Safety Analysis");
+            PDFPicker.Items.Add("26 - Ladders");
+            PDFPicker.Items.Add("27 - Lead Safety Awareness");
+            PDFPicker.Items.Add("28 - Lockout Tagout");
+            PDFPicker.Items.Add("29 - PPE");
+            PDFPicker.Items.Add("30 - Process Safety Management");
+            PDFPicker.Items.Add("31 - Respiratory Protection");
         }
 
         private void Open_PDF_Button_Clicked(object sender, EventArgs e)

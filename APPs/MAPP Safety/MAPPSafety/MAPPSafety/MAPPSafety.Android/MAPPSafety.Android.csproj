@@ -404,6 +404,13 @@
     <AndroidAsset Include="Assets\Content\Housekeeping_22-001.pdf" />
     <AndroidAsset Include="Assets\Content\Hydrogen_Sulfide_23-001.pdf" />
     <AndroidAsset Include="Assets\Content\Combined_Incident_Investigation_24.pdf" />
+    <AndroidAsset Include="Assets\Content\Combined_Task_Safety_Analysis.pdf" />
+    <AndroidAsset Include="Assets\Content\Ladders_26-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Lead_Safety_Awareness_27-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Combined_Lockout_Tagout.pdf" />
+    <AndroidAsset Include="Assets\Content\Personal_Protective_Equipment_PPE_29-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Combined_Process_Safety_Managment_30.pdf" />
+    <AndroidAsset Include="Assets\Content\Respiratory_Protection_31-001.pdf" />
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
