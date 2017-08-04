@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:MAPPSafety;assembly=MAPPSafety"
              x:Class="MAPPSafety.MainPage"
-             Title="MAPP APP">
+             Title="MAPP :: Build Beyond">
     <StackLayout x:Name="MainPageLayout" HorizontalOptions="CenterAndExpand">
         <Image Source="{local:ImageResource MAPPSafety.Images.mapp_logo.png}" HorizontalOptions="CenterAndExpand" VerticalOptions="Start"/>
         <Button Text="The MAPP Approach" VerticalOptions="Center"  Clicked="MAPP_APPROACH_Button_Clicked" />
