@@ -30,6 +30,18 @@ namespace MAPPSafety
             PDFPicker.Items.Add("10 - Cranes and Hoists");
             PDFPicker.Items.Add("11 - Drugs Alchol and Prohibited Items");
             PDFPicker.Items.Add("12 - Electrical Safety");
+            PDFPicker.Items.Add("13 - Emergency Response Plan");
+            PDFPicker.Items.Add("14 - Health and Safety Training");
+            PDFPicker.Items.Add("15 - Fire Protection");
+            PDFPicker.Items.Add("16 - First Aid Safety");
+            PDFPicker.Items.Add("17 - Forklifts");
+            PDFPicker.Items.Add("18 - Hand and Power Tools");
+            PDFPicker.Items.Add("19 - Hazard Communication");
+            PDFPicker.Items.Add("20 - Hearing Conservation");
+            PDFPicker.Items.Add("21 - Heat Stress");
+            PDFPicker.Items.Add("22 - Housekeeping");
+            PDFPicker.Items.Add("23 - Hydrogen Sulfide");
+            PDFPicker.Items.Add("24 - Incident Investigation");
         }
 
         private void Open_PDF_Button_Clicked(object sender, EventArgs e)
