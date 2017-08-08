@@ -421,6 +421,14 @@
     <AndroidAsset Include="Assets\Content\HSE_Policy_Fall_Protection_39-001.pdf" />
     <AndroidAsset Include="Assets\Content\Safety_Roles_and_Responsibilities_40-001.pdf" />
     <AndroidAsset Include="Assets\Content\Combined_Site_Visitor_Control_Plan.pdf" />
+    <AndroidAsset Include="Assets\Content\Combined_Trenching_and_Excavation.pdf" />
+    <AndroidAsset Include="Assets\Content\Welding_and_Cutting_43-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Project_Safety_and_Communication_Signage_44-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Combined_Safety_Meetings.pdf" />
+    <AndroidAsset Include="Assets\Content\Materials_Handling_46-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Crisis_Management_Plan_47-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Environmental_Management_Plan_49-001.pdf" />
+    <AndroidAsset Include="Assets\Content\Combined_Compliance_Inspection_Report_Form.pdf" />
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />

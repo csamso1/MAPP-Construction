@@ -57,6 +57,14 @@ namespace MAPPSafety
             pdfs[40] = "HSE_Policy_Fall_Protection_39-001.pdf";
             pdfs[41] = "Safety_Roles_and_Responsibilities_40-001.pdf";
             pdfs[42] = "Combined_Site_Visitor_Control_Plan.pdf";
+            pdfs[43] = "Combined_Trenching_and_Excavation.pdf";
+            pdfs[44] = "Welding_and_Cutting_43-001.pdf";
+            pdfs[45] = "Project_Safety_and_Communication_Signage_44-001.pdf";
+            pdfs[46] = "Combined_Safety_Meetings.pdf";
+            pdfs[47] = "Materials_Handling_46-001.pdf";
+            pdfs[48] = "Crisis_Management_Plan_47-001.pdf";
+            pdfs[49] = "Combined_Compliance_Inspection_Report_Form.pdf";
+            pdfs[50] = "Environmental_Management_Plan_49-001.pdf";
             int pdfIndex = index;
             Padding = new Thickness(0, 20, 0, 0);
             Content = new StackLayout

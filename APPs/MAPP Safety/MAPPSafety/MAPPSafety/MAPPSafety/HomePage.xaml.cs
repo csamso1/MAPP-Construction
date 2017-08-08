@@ -59,6 +59,14 @@ namespace MAPPSafety
             PDFPicker.Items.Add("39 - Fall Protection");
             PDFPicker.Items.Add("40 - Safety Roles and Responsibilities");
             PDFPicker.Items.Add("41 - Site Visitor Control Plan");
+            PDFPicker.Items.Add("42 - Trenching and Excavation");
+            PDFPicker.Items.Add("43 - Welding and Cutting");
+            PDFPicker.Items.Add("44 - Project Safety and Communication Signage");
+            PDFPicker.Items.Add("45 - Safety Meetings");
+            PDFPicker.Items.Add("46 - Materials Handling");
+            PDFPicker.Items.Add("47 - Crisis Managment Plan");
+            PDFPicker.Items.Add("48 - Compliance Inspection Report Form");
+            PDFPicker.Items.Add("49 - Environmental Managment Plan");
         }
 
         private void Open_PDF_Button_Clicked(object sender, EventArgs e)
