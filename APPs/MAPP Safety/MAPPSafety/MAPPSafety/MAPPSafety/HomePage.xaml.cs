@@ -67,6 +67,24 @@ namespace MAPPSafety
             PDFPicker.Items.Add("47 - Crisis Managment Plan");
             PDFPicker.Items.Add("48 - Compliance Inspection Report Form");
             PDFPicker.Items.Add("49 - Environmental Managment Plan");
+            PDFPicker.Items.Add("50 - Subcontractor Management");
+            PDFPicker.Items.Add("51 - Working Over Water");
+            PDFPicker.Items.Add("52 - Demolition");
+            PDFPicker.Items.Add("53 - Fatigue Management");
+            PDFPicker.Items.Add("54 - Hazardous Waste Operations");
+            PDFPicker.Items.Add("55 - Project HSE Plan");
+            PDFPicker.Items.Add("56 - Signs Signals Barricades");
+            PDFPicker.Items.Add("57 - Laser Safety - Open for Development");
+            PDFPicker.Items.Add("58 - Safety Requirements for all Projects");
+            PDFPicker.Items.Add("59 - Abrasive Blasting");
+            PDFPicker.Items.Add("60 - Corporate Safety Review");
+            PDFPicker.Items.Add("61 - Hexavalent Cromium");
+            PDFPicker.Items.Add("62 - Spill Containment");
+            PDFPicker.Items.Add("63 - Safety Policy Enforcement");
+            PDFPicker.Items.Add("64 - Offshore Crane");
+            PDFPicker.Items.Add("65 - Pre Work Assessment");
+            PDFPicker.Items.Add("66 - Cadmium Awareness Statement");
+            PDFPicker.Items.Add("67 - HSE Management System");
         }
 
         private void Open_PDF_Button_Clicked(object sender, EventArgs e)

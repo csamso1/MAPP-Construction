@@ -9,7 +9,7 @@ namespace MAPPSafety
 {
     public class WebViewPageCS : ContentPage
     {
-        
+
 
         public WebViewPageCS(int index)
         {
@@ -65,6 +65,24 @@ namespace MAPPSafety
             pdfs[48] = "Crisis_Management_Plan_47-001.pdf";
             pdfs[49] = "Combined_Compliance_Inspection_Report_Form.pdf";
             pdfs[50] = "Environmental_Management_Plan_49-001.pdf";
+            pdfs[51] = "Combined_Subcontractor_Managment.pdf";
+            pdfs[52] = "Working_Over_Water_51-001.pdf";
+            pdfs[53] = "Demolition_52-001.pdf";
+            pdfs[54] = "Fatique_Management_53-001.pdf";
+            pdfs[55] = "Hazardous_Waste_Operations_54-001.pdf";
+            pdfs[56] = "Combined_Project_HSE_Plan.pdf";
+            pdfs[57] = "Signs_Signals_Barricades_56-001.pdf";
+            pdfs[58] = "Laser_Safety.pdf";
+            pdfs[59] = "Safety_Requirements_for_all_Jobsites_Checklist.pdf";
+            pdfs[60] = "Abrasive_Blasting_59-001.pdf";
+            pdfs[61] = "Safety_Evaluation_Report_60-001.pdf";
+            pdfs[62] = "Hexavalent_Chromium_61-001.pdf";
+            pdfs[63] = "Spill_Containment_62-001.pdf";
+            pdfs[64] = "Combined_Safety_Policy_Enforcement.pdf";
+            pdfs[65] = "Offshore_Crane_Operation_and_Maintenance_64-001.pdf";
+            pdfs[66] = "Combined_Pre_Work_Assessment.pdf";
+            pdfs[67] = "Cadmium_66-001.pdf";
+            pdfs[68] = "Combined_HSE_Management_System.pdf";
             int pdfIndex = index;
             Padding = new Thickness(0, 20, 0, 0);
             Content = new StackLayout
