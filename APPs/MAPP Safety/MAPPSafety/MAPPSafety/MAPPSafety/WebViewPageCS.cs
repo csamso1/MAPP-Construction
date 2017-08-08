@@ -47,6 +47,16 @@ namespace MAPPSafety
             pdfs[30] = "Personal_Protective_Equipment_PPE_29-001.pdf";
             pdfs[31] = "Combined_Process_Safety_Managment_30.pdf";
             pdfs[32] = "Respiratory_Protection_31-001.pdf";
+            pdfs[33] = "Rigging_32-001.pdf";
+            pdfs[34] = "Scaffolding_33-001.pdf";
+            pdfs[35] = "Statement_of_Understanding_34-001.pdf";
+            pdfs[36] = "Combined_Short_Service_Employees.pdf";
+            pdfs[37] = "Compressed_Gas_Cylinders_36-001.pdf";
+            pdfs[38] = "Defensive_Driving_37-001.pdf";
+            pdfs[39] = "Severe_Weather_Proc_38-001.pdf";
+            pdfs[40] = "HSE_Policy_Fall_Protection_39-001.pdf";
+            pdfs[41] = "Safety_Roles_and_Responsibilities_40-001.pdf";
+            pdfs[42] = "Combined_Site_Visitor_Control_Plan.pdf";
             int pdfIndex = index;
             Padding = new Thickness(0, 20, 0, 0);
             Content = new StackLayout

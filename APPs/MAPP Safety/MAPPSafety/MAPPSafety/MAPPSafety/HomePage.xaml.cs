@@ -49,6 +49,16 @@ namespace MAPPSafety
             PDFPicker.Items.Add("29 - PPE");
             PDFPicker.Items.Add("30 - Process Safety Management");
             PDFPicker.Items.Add("31 - Respiratory Protection");
+            PDFPicker.Items.Add("32 - Rigging");
+            PDFPicker.Items.Add("33 - Scaffolding");
+            PDFPicker.Items.Add("34 - Statement of Understanding");
+            PDFPicker.Items.Add("35 - Short Service Employees");
+            PDFPicker.Items.Add("36 - Compressed Gas Cylinders");
+            PDFPicker.Items.Add("37 - Defensive Driving");
+            PDFPicker.Items.Add("38 - Severe Weather Plan");
+            PDFPicker.Items.Add("39 - Fall Protection");
+            PDFPicker.Items.Add("40 - Safety Roles and Responsibilities");
+            PDFPicker.Items.Add("41 - Site Visitor Control Plan");
         }
 
         private void Open_PDF_Button_Clicked(object sender, EventArgs e)
