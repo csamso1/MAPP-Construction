@@ -13,7 +13,7 @@ namespace MAPPSafety
 
         public WebViewPageCS(int index)
         {
-            string[] pdfs = new string[70];
+            string[] pdfs = new string[69];
             pdfs[0] = "FM-001_Weekly_Equipment_Inspection_Form.pdf";
             pdfs[1] = "Standard_for_HSE_Policy_00-001.pdf";
             pdfs[2] = "HSE_Policy_01-001.pdf";
