@@ -9,8 +9,6 @@ namespace MAPPSafety
 {
     public class WebViewPageCS : ContentPage
     {
-
-
         public WebViewPageCS(int index)
         {
             string[] pdfs = new string[69];
