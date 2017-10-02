@@ -29,12 +29,12 @@ namespace MAPPSafety.iOS
             }
             if (e.NewElement != null)
             {
-                System.Diagnostics.Debug.WriteLine("TEST e.NewElement != Null");
+                //System.Diagnostics.Debug.WriteLine("TEST e.NewElement != Null");
                 var customWebView = Element as CustomWebView;
                 string fileName = Path.Combine(NSBundle.MainBundle.BundlePath, string.Format("Content/{0}", WebUtility.UrlEncode(customWebView.Uri)));
                 Control.LoadRequest(new NSUrlRequest(new NSUrl(fileName, false)));
                 Control.ScalesPageToFit = true;
-                System.Diagnostics.Debug.WriteLine("fileNmae = " + fileName);
+                //System.Diagnostics.Debug.WriteLine("fileNmae = " + fileName);
             }
         }
     }
