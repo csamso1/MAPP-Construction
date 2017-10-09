@@ -15,3 +15,5 @@ C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.HomePage.xaml.g.cs
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.MAPP_Approach.xaml.g.cs
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.csproj.CoreCompileInputs.cache
+C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.csprojResolveAssemblyReference.cache
+C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.SafetyManualError.xaml.g.cs

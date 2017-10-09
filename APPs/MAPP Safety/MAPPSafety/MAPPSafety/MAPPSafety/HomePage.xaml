@@ -5,10 +5,11 @@
              x:Class="MAPPSafety.HomePage"
              Title="MAPP Safety">
     <ContentPage.Content>
-        <StackLayout HorizontalOptions="Center" >
-            <Label Text="Welcome to the MAPP Safety APP!" VerticalOptions="Start" FontSize="Large" />
-            <Picker x:Name="PDFPicker" SelectedIndexChanged="PDFPicker_SelectedIndexChanged"  Title="Choose Safety Manual Section:" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand"/>
-            <Button Text="Open PDF" VerticalOptions="EndAndExpand" Clicked="Open_PDF_Button_Clicked"/>
+        <StackLayout HorizontalOptions="Center" Padding="10" >
+            <Image Source="{local:ImageResource MAPPSafety.Images.mapp_logo.png}" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand"/>
+            <Picker x:Name="PDFPicker" SelectedIndexChanged="PDFPicker_SelectedIndexChanged"  Title="Choose Safety Manual Section:" HorizontalOptions="Center" VerticalOptions="Center"/>
+            <Button Text="Open PDF" VerticalOptions="EndAndExpand" Clicked="Open_PDF_Button_Clicked" FontSize="30" FontFamily="Bold" TextColor="#0055a5"/>
+            <Image Source="{local:ImageResource MAPPSafety.Images.safety_logo.png}" HorizontalOptions="CenterAndExpand" VerticalOptions="End"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

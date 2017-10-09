@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MAPPSafety;assembly=MAPPSafety"
+             x:Class="MAPPSafety.SafetyManualError"
+             Title="MAPP Safety">
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <Image Source="{local:ImageResource MAPPSafety.Images.mapp_logo.png}" HorizontalOptions="CenterAndExpand" VerticalOptions="Start"/>
+            <Label Text="Sorry, you must first choose a safety manual section." HorizontalOptions="Center" HorizontalTextAlignment="Center" VerticalOptions="Center" TextColor="#0055a5" FontSize="25" />
+            <Button Text="Back" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Clicked="Back_Button_Clicked" FontSize="25" TextColor="#0055a5"/>
+            <Image Source="{local:ImageResource MAPPSafety.Images.safety_logo.png}" HorizontalOptions="CenterAndExpand" VerticalOptions="End"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

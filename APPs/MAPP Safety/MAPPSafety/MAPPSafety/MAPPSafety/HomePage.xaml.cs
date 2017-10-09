@@ -89,7 +89,14 @@ namespace MAPPSafety
 
         private void Open_PDF_Button_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new WebViewPageCS(PDFPicker.SelectedIndex));
+            if (!(PDFPicker.SelectedIndex >= 0))
+            {
+                Navigation.PushAsync(new SafetyManualError());
+            }
+            else
+            {
+                Navigation.PushAsync(new WebViewPageCS(PDFPicker.SelectedIndex));
+            }
         }
 
         private void PDFPicker_SelectedIndexChanged(object sender, EventArgs e)

@@ -4,9 +4,9 @@
              xmlns:local="clr-namespace:MAPPSafety;assembly=MAPPSafety"
              x:Class="MAPPSafety.MainPage"
              Title="MAPP :: Build Beyond">
-    <StackLayout x:Name="MainPageLayout" HorizontalOptions="CenterAndExpand">
+    <StackLayout x:Name="MainPageLayout" HorizontalOptions="CenterAndExpand" Padding="10">
         <Image Source="{local:ImageResource MAPPSafety.Images.mapp_logo.png}" HorizontalOptions="CenterAndExpand" VerticalOptions="Start"/>
-        <Button Text="The MAPP Approach" VerticalOptions="Center"  Clicked="MAPP_APPROACH_Button_Clicked" />
-        <Button Text="Safety Manual" VerticalOptions="Center" Clicked="Safety_Manual_Button_Clicked" />
+        <Button Text="Safety Manual" VerticalOptions="CenterAndExpand" Clicked="Safety_Manual_Button_Clicked" FontSize="35" FontFamily="Bold" TextColor="#0055a5"/>
+        <Image Source="{local:ImageResource MAPPSafety.Images.safety_logo.png}" HorizontalOptions="CenterAndExpand" VerticalOptions="End"/>
     </StackLayout>
 </ContentPage>

@@ -18,10 +18,5 @@ namespace MAPPSafety
         {
             Navigation.PushAsync(new HomePage());
         }
-
-        private void MAPP_APPROACH_Button_Clicked(object sender, EventArgs e)
-        {
-            Navigation.PushAsync(new MAPP_Approach());
-        }
     }
 }

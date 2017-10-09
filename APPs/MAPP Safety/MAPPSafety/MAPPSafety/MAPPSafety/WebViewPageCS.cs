@@ -82,7 +82,7 @@ namespace MAPPSafety
             pdfs[67] = "Cadmium_66-001.pdf";
             pdfs[68] = "Combined_HSE_Management_System.pdf";
             int pdfIndex = index;
-            Padding = new Thickness(0, 20, 0, 0);
+            Padding = new Thickness(0, 0, 0, 0);
             Content = new StackLayout
             {
                 Children =
