@@ -72,7 +72,7 @@ C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-40@3x.png
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-120.png
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.iOS\obj\iPhoneSimulator\Debug\optimized\
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.iOS\obj\iPhoneSimulator\Debug\MAPPSafety.iOS.csprojResolveAssemblyReference.cache
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.iOS\obj\iPhoneSimulator\Debug\MAPPSafety.iOS.csproj.CoreCompileInputs.cache
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.iOS\obj\iPhoneSimulator\Debug\MAPPSafety.iOS.exe
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.iOS\obj\iPhoneSimulator\Debug\MAPPSafety.iOS.pdb
+C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.iOS\obj\iPhoneSimulator\Debug\MAPPSafety.iOS.csprojResolveAssemblyReference.cache
