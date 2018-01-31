@@ -8,7 +8,6 @@ C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.csprojResolveAssemblyReference.cache
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.csproj.CoreCompileInputs.cache
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.MainPage.xaml.g.cs
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety\obj\Debug\MAPPSafety.App.xaml.g.cs

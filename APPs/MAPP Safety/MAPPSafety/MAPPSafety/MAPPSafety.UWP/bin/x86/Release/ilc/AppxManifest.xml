@@ -39,13 +39,13 @@
     <build:Item Name="VisualStudio" Version="15.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2017" />
     <build:Item Name="OperatingSystem" Version="10.0.16299.15 (WinBuild.160101.0800)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="15.0.26906.1" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="15.0.27128.1" />
     <build:Item Name="ProjectGUID" Value="{477ADBDC-97BD-40AF-9DDE-7C07CBAD59FF}" />
     <build:Item Name="ilc.exe" Version="1.4.24211.00 built by: PROJECTNGDR2" />
     <build:Item Name="OptimizingToolset" Value="ilc.exe" />
     <build:Item Name="UseDotNetNativeSharedAssemblyFrameworkPackage" Value="True" />
     <build:Item Name="UniversalGenericsOptOut" Value="false" />
-    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="15.0.26906.1" />
-    <build:Item Name="MakePri.exe" Version="10.0.15063.468 (WinBuild.160101.0800)" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="15.0.27128.1" />
+    <build:Item Name="MakePri.exe" Version="10.0.15063.674 (WinBuild.160101.0800)" />
   </build:Metadata>
 </Package>

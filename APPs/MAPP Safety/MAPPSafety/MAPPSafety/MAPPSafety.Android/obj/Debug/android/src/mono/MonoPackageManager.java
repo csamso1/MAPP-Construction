@@ -108,6 +108,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "MAPPSafety.Android.dll" comes first in this list. */
 		"MAPPSafety.Android.dll",
 		"FormsViewGroup.dll",
+		"MAPPSafety.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",
@@ -120,7 +121,6 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
-		"MAPPSafety.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

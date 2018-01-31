@@ -1,7 +1,5 @@
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\MAPPSafety.Android.dll
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\MAPPSafety.Android.pdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\MAPPSafety.Android.apk
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\MAPPSafety.Android-Signed.apk
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\FormsViewGroup.dll
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\MAPPSafety.dll
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
@@ -31,7 +29,6 @@ C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\MAPPSafety.Android.csproj.CoreCompileInputs.cache
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\MAPPSafety.Android.dll
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\MAPPSafety.Android.pdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\bin\MAPPSafety.Android.apk
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\res\drawable\icon.png
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\res\drawable-hdpi\icon.png
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\res\drawable-xhdpi\icon.png
@@ -41,11 +38,36 @@ C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\res\values\styles.xml
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\R.cs.flag
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\uploadflags.txt
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\MAPPSafety.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\MAPPSafety.Android.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\assets\MAPPSafety.Android.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\assets\MAPPSafety.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\com.mapp.safety.apk
+C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\com.mapp.safety-Signed.apk
+C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\bin\com.mapp.safety.apk
+C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\MAPPSafety.Android.dll
+bin\Debug\MAPPSafety.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\MAPPSafety.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\MAPPSafety.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
