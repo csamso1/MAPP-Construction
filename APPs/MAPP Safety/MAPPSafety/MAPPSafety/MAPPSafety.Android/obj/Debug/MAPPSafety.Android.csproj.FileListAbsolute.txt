@@ -41,19 +41,11 @@ C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\com.mapp.safety.apk
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\com.mapp.safety-Signed.apk
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\bin\com.mapp.safety.apk
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\MAPPSafety.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\MAPPSafety.Android.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\assets\MAPPSafety.Android.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\assets\MAPPSafety.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\MAPPSafety.Android.dll
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\packages\Xamarin.Forms.2.3.4.270\lib\MonoAndroid10\FormsViewGroup.dll
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\packages\Xamarin.Forms.2.3.4.270\lib\MonoAndroid10\Xamarin.Forms.Core.dll
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\packages\Xamarin.Forms.2.3.4.270\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
 C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\packages\Xamarin.Forms.2.3.4.270\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
+C:\Users\Clayton\Documents\GitHub\MAPP-Construction\APPs\MAPP Safety\MAPPSafety\MAPPSafety\MAPPSafety.Android\bin\Debug\MAPPSafety.Android.dll
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\MAPPSafety.dll.mdb
 bin\Debug\Xamarin.Forms.Core.dll.mdb

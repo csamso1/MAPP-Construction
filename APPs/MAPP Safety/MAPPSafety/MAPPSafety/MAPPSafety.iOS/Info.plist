@@ -25,7 +25,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>MAPPSafety</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.mappbuilt.mappsafety</string>
+	<string>com.mappbuilt.safety</string>
 	<key>CFBundleVersion</key>
 	<string>2.1</string>
 	<key>CFBundleIcons</key>
@@ -61,5 +61,7 @@
 	<string>Resources/Media.xcassets/LaunchImages.launchimage</string>
 	<key>XSAppIconAssets</key>
 	<string>Resources/Media.xcassets/AppIcons.appiconset</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
 </dict>
 </plist>
